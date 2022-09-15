@@ -10,3 +10,6 @@ export default class DisplayNumber extends Component {
       )
     }
   }
+
+
+  
