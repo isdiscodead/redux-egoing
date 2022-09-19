@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import React, { Component } from 'react';
 
+import { connect } from 'react-redux'
+
 import AddNumberRoot from './Components/AddNumberRoot';
 import DisplayNumberRoot from './Components/DisplayNumberRoot';
 
